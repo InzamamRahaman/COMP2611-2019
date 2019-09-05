@@ -19,6 +19,7 @@ You have been grouped into one of 3 lab sessions. Your sessions can be [found he
 
 ## Lectures
 [Week 1 - Intro](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Introduction%20to%20COMP2611.pdf)
+
 [Week 2 - Basic Analysis](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-2-Analysis.pdf)
 
 ## Assignments
