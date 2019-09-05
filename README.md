@@ -6,10 +6,12 @@ You have been grouped into one of 3 lab sessions. Your sessions can be [found he
 
 ## Software
 [Anaconda Distribution Page](https://www.anaconda.com/distribution/)
+
 [PyCharm Community Edition](https://www.jetbrains.com/pycharm/)
 
 ## Required Readings
 [Interactive Python Tutorial](https://www.learnpython.org/)
+
 [A Consise Tour of the main facets of Python](https://learnxinyminutes.com/docs/python3/)
 
 
