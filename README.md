@@ -4,6 +4,14 @@ Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSehpVHHpV_HjT4nB
 
 You have been grouped into one of 3 lab sessions. Your sessions can be [found here](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/admin/Lab-Groupings.pdf)
 
+Email (replace dots and at with appropriate symbols): inzamam dot rahaman at outlook dot com
+
+## Office Hours (Office located in DCIT)
+Tuesday - 11AM - 1PM
+Tuesday - 3PM - 5PM
+Wednesday - 3PM - 5PM
+
+
 ## Software
 [Anaconda Distribution Page](https://www.anaconda.com/distribution/)
 
