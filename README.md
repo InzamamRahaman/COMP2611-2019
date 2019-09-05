@@ -7,9 +7,9 @@ You have been grouped into one of 3 lab sessions. Your sessions can be [found he
 Email (replace dots and at with appropriate symbols): inzamam dot rahaman at outlook dot com
 
 ## Office Hours (Office located in DCIT)
--- Tuesday - 11AM - 1PM
--- Tuesday - 3PM - 5PM
--- Wednesday - 3PM - 5PM
+* Tuesday - 11AM - 1PM
+* Tuesday - 3PM - 5PM
+* Wednesday - 3PM - 5PM
 
 
 ## Software
