@@ -10,15 +10,19 @@ You have been grouped into one of 3 lab sessions. Your sessions can be [found he
 [PyCharm Community Edition](https://www.jetbrains.com/pycharm/)
 
 ## Required Readings
+
+### Week 1 (please read before labs start in Week 2)
 [Interactive Python Tutorial](https://www.learnpython.org/)
 
 [A Consise Tour of the main facets of Python](https://learnxinyminutes.com/docs/python3/)
 
 
 ## Lectures
+[Week 1 - Intro](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Introduction%20to%20COMP2611.pdf)
+[Week 2 - Basic Analysis](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-2-Analysis.pdf)
 
 ## Assignments
 
-## Problem Sets
+## Problem Sets For Tutorial
 
 ## Announcements
