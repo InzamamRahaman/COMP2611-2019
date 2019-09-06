@@ -20,6 +20,8 @@ Email (replace dots and at with appropriate symbols): inzamam dot rahaman at out
 ## Required Readings
 
 ### Week 1 (please read before labs start in Week 2)
+[Stanford Python Tutorial](https://stanfordpython.com/#lecture)
+
 [Interactive Python Tutorial](https://www.learnpython.org/)
 
 [A Consise Tour of the main facets of Python](https://learnxinyminutes.com/docs/python3/)
