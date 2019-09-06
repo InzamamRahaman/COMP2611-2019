@@ -20,11 +20,16 @@ Email (replace dots and at with appropriate symbols): inzamam dot rahaman at out
 ## Required Readings
 
 ### Week 1 (please read before labs start in Week 2)
-[Stanford Python Tutorial](https://stanfordpython.com/#lecture)
-
-[Interactive Python Tutorial](https://www.learnpython.org/)
+Information is reapeated between these two. Since you already know how to programme, should not 
+take long to peruse these
 
 [A Consise Tour of the main facets of Python](https://learnxinyminutes.com/docs/python3/)
+
+[Stanford Python Tutorial](https://stanfordpython.com/#lecture) --> up to Object-Oriented Python
+
+
+
+
 
 
 ## Lectures
