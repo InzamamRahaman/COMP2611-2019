@@ -27,6 +27,8 @@ take long to peruse these
 
 [Stanford Python Tutorial](https://stanfordpython.com/#lecture) --> up to Object-Oriented Python
 
+[Programming in Python](https://introcs.cs.princeton.edu/python/home/)
+
 ### Week 2
 [Big-O](https://github.com/sf-wdi-31/algorithm-complexity-and-big-o)
 [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
