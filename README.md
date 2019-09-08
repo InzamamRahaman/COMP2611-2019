@@ -27,6 +27,12 @@ take long to peruse these
 
 [Stanford Python Tutorial](https://stanfordpython.com/#lecture) --> up to Object-Oriented Python
 
+### Week 2
+[Big-O](https://github.com/sf-wdi-31/algorithm-complexity-and-big-o)
+[Big-O Cheatsheet](https://www.bigocheatsheet.com/)
+[Analysis of Algorithms](https://algs4.cs.princeton.edu/14analysis/)
+[Hashtables](https://algs4.cs.princeton.edu/34hash/)
+
 
 
 
@@ -42,6 +48,7 @@ take long to peruse these
 
 ## Assignments
 
-## Problem Sets For Tutorial
+## Problem Sets
+[Problem Set #1](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/psets/Problem%20Set%201.ipynb)
 
 ## Announcements
