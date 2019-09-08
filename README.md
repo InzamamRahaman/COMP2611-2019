@@ -31,8 +31,11 @@ take long to peruse these
 
 ### Week 2
 [Big-O](https://github.com/sf-wdi-31/algorithm-complexity-and-big-o)
+
 [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
+
 [Analysis of Algorithms](https://algs4.cs.princeton.edu/14analysis/)
+
 [Hashtables](https://algs4.cs.princeton.edu/34hash/)
 
 
