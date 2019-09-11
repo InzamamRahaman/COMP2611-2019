@@ -36,6 +36,8 @@ take long to peruse these
 
 [Analysis of Algorithms](https://algs4.cs.princeton.edu/14analysis/)
 
+[Basics of Hashtables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
+
 [Hashtables](https://algs4.cs.princeton.edu/34hash/)
 
 
