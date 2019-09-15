@@ -1,0 +1,6 @@
+ISBN,Title,Authors
+978-0471030034,Statistical Learning Theory,Vladimir N. Vapnik 
+978-0387848570,The Elements of Statistical Learning, Trevor Hastie and Robert Tibshirani and Jerome Friedman 
+978-0387310732,Pattern Recognition and Machine Learning,Christopher M. Bishop
+978-1447166382,Writing for Computer Science,Justin Zobel
+978-1593274139,The Manga Guide to Linear Algebra,Shin Takahashi
