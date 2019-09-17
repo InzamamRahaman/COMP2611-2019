@@ -50,6 +50,8 @@ take long to peruse these
 
 [Week 2 - Basic Analysis](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-2-Analysis.pdf)
 
+[Week 3 - Hashtables](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-3-Hashing.pdf)
+
 ## Labs
 [Week 2 - Python](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/labs/lab1/Lab1%20.pdf)
 
