@@ -4,9 +4,19 @@ Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSehpVHHpV_HjT4nB
 
 You have been grouped into one of 3 lab sessions. Your sessions can be [found here](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/admin/Lab-Groupings.pdf)
 
+### Course Work Exam Dates
+
 CW Exam #1 - 10th October 2019
 
 CW Exam #2 - 14th November 2019
+
+### Assignment Due Dates
+
+A1 - 10th October 2019
+
+A2 - 31st October 2019
+
+A3 - 21st November 2019
 
 Email (replace dots and at with appropriate symbols): inzamam dot rahaman at outlook dot com
 
