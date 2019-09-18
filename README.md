@@ -26,6 +26,10 @@ Email (replace dots and at with appropriate symbols): inzamam dot rahaman at out
 * Wednesday - 3PM - 5PM
 
 
+## Learning how to learn
+This is a good online course covering some learning strategies to help master difficult subjects. Even if you have cultivated
+your own set of strategies, I still suggest taking this free online course. [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+
 ## Software
 [Anaconda Distribution Page](https://www.anaconda.com/distribution/)
 
