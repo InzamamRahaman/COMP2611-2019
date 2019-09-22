@@ -4,7 +4,7 @@ Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSehpVHHpV_HjT4nB
 
 You have been grouped into one of 3 lab sessions. Your sessions can be [found here](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/admin/Lab-Groupings.pdf)
 
-### Assignment
+### Assignments
 [A1](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/assignments/A1/COMP2611__Assignment_1.pdf) - Draft Due Date: 3rd October 2019, Final Version Due: 13th October 2019
  
 ### Course Work Exam Dates
