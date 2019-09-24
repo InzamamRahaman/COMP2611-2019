@@ -75,6 +75,7 @@ take long to peruse these
 
 ## Labs
 [Week 2 - Python](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/labs/lab1/Lab1%20.pdf)
+
 [Week 3 - Hashtables](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/labs/lab3/Lab3.pdf)
 
 ## Assignments
