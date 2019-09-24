@@ -73,6 +73,8 @@ LinkedListPtr create_link_list()
     return l;
 }
 
+
+
 void append_data(LinkedListPtr lp, Data data)
 {
     NodePtr np = create_node(data);
@@ -86,6 +88,21 @@ void append_data(LinkedListPtr lp, Data data)
         lp->last->next = np;
         lp->last = np;
     }
+}
+
+void insert_data(LinkedListPtr lp, Data data)
+{
+    NodePtr curr = lp->head;
+    while(curr != NULL)
+    {
+        if (keys_equal(curr->data.key, data.key))
+        {
+            curr->data = data;
+            return;
+        }
+    }
+    append_data(lp, data);
+
 }
 
 
@@ -174,7 +191,7 @@ void insert(HashtablePtr ht, char key[], int value)
     {
         ht->table[loc] = create_link_list();
     }
-    append_data(ht->table[loc], d);
+    insert_data(ht->table[loc], d);
 }
 
 NodePtr search(HashtablePtr ht, char key[])
@@ -201,7 +218,7 @@ int main()
 {
     HashtablePtr ht = create_hashtable();
     insert(ht, "Inzamam", 9);
-    insert(ht, "Nicholas", 9);
+    insert(ht, "Nicholas", 2);
     insert(ht, "Alice", 10);
     NodePtr np = search(ht, "Inzamam");
     print_data(np->data);
@@ -220,5 +237,28 @@ int main()
         print_data(np2->data);
         cout << endl;
     }
+     NodePtr np3 = search(ht, "Nicholas");
+     if(np3 != NULL)
+     {
+          print_data(np3->data);
+     }
+     else
+     {
+        cout << "Data not found!" << endl;
+
+     }
+    
+     insert(ht, "Nicholas", 3);
+     np3 = search(ht, "Nicholas");
+     if(np3 != NULL)
+     {
+          print_data(np3->data);
+     }
+     else
+     {
+        cout << "Data not found!" << endl;
+            
+     }
+    
     return 0;
 }

@@ -12,10 +12,11 @@ class ChainingHashtable:
       inserted = False
       for j, (k_prime, v_prime) in enumerate(self.table[i]):
         if key == k_prime:
-          self.table[i][j] = value 
+          self.table[i][j] = (key, value) 
           inserted = True 
       if inserted == False:
         self.table[i].append((key, value))
+
   def search(self, key):
     i = hash(key) % self.n
     if self.table[i] is None:
@@ -44,3 +45,5 @@ hashtable.insert('Alice', 10)
 print(hashtable.search('Inzamam'))
 hashtable.delete('Alice')
 print(hashtable.search('Alice'))
+hashtable.insert('Nicholas', 2)
+print(hashtable.search('Nicholas'))
