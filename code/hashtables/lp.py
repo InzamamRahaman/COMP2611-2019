@@ -8,6 +8,9 @@ class LinearProbingHashtable:
     misses = 0
     new_i = (i + misses) % self.n 
     while self.table[new_i] is not None:
+      key_p, value_p = self.table[new_i]
+      if key_p == key:
+        break
       misses += 1
       new_i = (i + misses) % self.n 
     self.table[new_i] = (key, value)

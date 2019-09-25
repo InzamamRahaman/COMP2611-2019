@@ -3,7 +3,7 @@
 #include <cstdlib>
 
 #define MAX_NAME_LEN 50
-#define HASH_TABLE_LEN 1000
+#define HASH_TABLE_LEN 1001
 
 using namespace std;
 
