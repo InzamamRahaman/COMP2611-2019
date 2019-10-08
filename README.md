@@ -78,6 +78,10 @@ take long to peruse these
 
 [Week 3 - Hashtables](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/labs/lab3/Lab3.pdf)
 
+[Week 4 - Matrices](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/labs/lab4/COMP2611_Data_Structures_Lab_4.pdf)
+
+[Week 5 - Trees and Binary Trees](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/labs/lab5/COMP2611_Data_Structures_Lab_5.pdf)
+
 ## Assignments
 
 ## Problem Sets
