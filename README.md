@@ -73,6 +73,12 @@ take long to peruse these
 
 [Week 3 - Hashtables](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-3-Hashing.pdf)
 
+[Week 4 - Matrices](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-4-Matrices.pdf)
+
+[Week 5 - Hashtables](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-5-Trees.pdf)
+
+[Week 6 - Hashtables](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-6-BSTs.pdf)
+
 ## Labs
 [Week 2 - Python](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/labs/lab1/Lab1%20.pdf)
 
