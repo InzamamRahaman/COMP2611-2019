@@ -1,0 +1,35 @@
+function remove(root):
+    if root is NIL:
+        return
+    if (root.left is NIL and root.right is NIL):
+        p = root.parent
+        if (p is not NIL):
+            if (p.left == root):
+                p.left = NIL
+            else:
+                p.right = NIL
+        free(root)
+    elif (root.left is not NIL and root.right is NIL):
+        p = root.parent 
+        if (p is not NIL):
+            if (p.left == root):
+                p.left = root.left
+            else:
+                p.right = root.left
+            root.left.parent = p 
+        free(root)
+    elif (root.left is NIL and root.right is not NIL):
+        p = root.parent 
+        if (p is not NIL):
+            if (p.left == root):
+                p.left = root.right
+            else:
+                p.right = root.right
+            root.right.parent = p 
+        free(root)
+    else:
+        succ = successor(root)
+        root.data = succ.data
+        remove(succ)
+    
+            
