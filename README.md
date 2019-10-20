@@ -6,6 +6,8 @@ You have been grouped into one of 3 lab sessions. Your sessions can be [found he
 
 ### Assignments
 [A1](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/assignments/A1/COMP2611__Assignment_1.pdf) - Draft Due Date: 3rd October 2019, Final Version Due: 13th October 2019
+
+[A2](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/assignments/COMP2611__Assignment_2.pdf) - Draft Due Date: 31st October 2019, Final Version Due: 7th November 2019
  
 ### Course Work Exam Dates
 
@@ -17,7 +19,7 @@ CW Exam #2 - 14th November 2019
 
 A1 - 13th October 2019
 
-A2 - 31st October 2019
+A2 - 7th October 2019
 
 A3 - 21st November 2019
 
@@ -75,9 +77,24 @@ take long to peruse these
 
 [Week 4 - Matrices](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-4-Matrices.pdf)
 
-[Week 5 - Hashtables](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-5-Trees.pdf)
+[Week 5 - Trees](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-5-Trees.pdf)
 
-[Week 6 - Hashtables](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-6-BSTs.pdf)
+[Week 6 - CW Exam #1](google.com)
+
+[Week 7 - Binary Search Trees](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-6-BSTs.pdf)
+
+[Week 8 - Searching and Order Statistics](google.com)
+
+[Week 9 - Heaps and Priority Queues](google.com)
+
+[Week 10 - Intro to Graphs and Basic Algorithms on Graphs](google.com)
+
+[Week 11 - Minimum Spanning Trees and Single Source Shortest Path](google.com)
+
+[Week 12 - CW Exam #2]
+
+[Week 13 - Epilogue and Review](google.com))
+
 
 ## Labs
 [Week 2 - Python](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/labs/lab1/Lab1%20.pdf)
@@ -88,7 +105,6 @@ take long to peruse these
 
 [Week 5 - Trees and Binary Trees](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/labs/lab5/COMP2611_Data_Structures_Lab_5.pdf)
 
-## Assignments
 
 ## Problem Sets
 [Problem Set #1](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/psets/Problem%20Set%201.ipynb)
