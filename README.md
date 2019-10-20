@@ -89,9 +89,9 @@ take long to peruse these
 
 [Week 10 - Intro to Graphs and Basic Algorithms on Graphs](google.com)
 
-[Week 11 - Minimum Spanning Trees and Single Source Shortest Path](google.com)
+[Week 11 - CW Exam #2](google.com)
 
-[Week 12 - CW Exam #2]
+[Week 12 - Minimum Spanning Trees and Single Source Shortest Path](google.com)
 
 [Week 13 - Epilogue and Review](google.com))
 
