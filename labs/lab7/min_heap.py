@@ -1,12 +1,14 @@
 
 class Data:
-    def __init__(self, priority, value):
-        self.priority = priority
-        self.value = value 
-    
+    def __init__(self, key, value):
+        self.key = key
+        self.value = value
+
+    def __repr__(self):
+        return f'Data({self.key}, {self.value})'
 
 def parent(i):
-    return i * 2 
+    return i // 2 
 
 def left_child(i):
     return i * 2 
@@ -21,11 +23,9 @@ def swap(arr, i, j):
 
 class MinHeap:
 
-    def __init__(self, size=1000):
-        self.size = size
+    def __init__(self):
         self.n = 0
-        self.arr = [None] * (size + 1)
-
+        self.arr = [None]
 
     def __len__(self):
         return self.n 
@@ -35,34 +35,36 @@ class MinHeap:
 
     def __bool__(self):
         return not self.is_empty()
-    
-
-    def _sift_up(self, start):
-        curr =  start
-        while self.arr[curr].priority < self.arr[parent(curr)] and curr > 1:
-            swap(self.arr, curr, parent(curr))
 
     def insert(self, data):
+        self.arr.append(data)
+        index = len(self.arr) - 1
         self.n += 1
-        self.arr[self.n] = data    
-        self._sift_up(self.n)
+        self._sift_up(index)
 
-    # need to implement body 
-    def _sift_down(self, start):
-        pass 
+    def _should_move(self, loc1, loc2):
+        return self.arr[loc1].key > self.arr[loc2].key
+        
+
+    def _sift_up(self, index):
+        while index > 1 and self._should_move(parent(index), index):
+            swap(self.arr, index, parent(index))
+            index = parent(index)
 
     def remove(self):
-        swap(self.arr, 1, self.n)
-        res = self.arr[self.n]
-        self.arr[self.n] = None 
-        self.n -= 1
+        index = len(self.arr) - 1
+        swap(self.arr, 1, index)
+        ans = self.arr.pop(index)
         self._sift_down(1)
-        return res
+        self.n -= 1
+        return ans
 
+    def _sift_down(self, index):
+        pass
 
 
 def main():
-    filename = 'data.txt'
+    filename = 'data.csv'
     passed_header = False
 
     heap = MinHeap()
@@ -71,8 +73,12 @@ def main():
     for line in fp:
         if passed_header:
             priority, fname, lname = line.split()
-            print(line)
+            data = #???
+            heap.insert(data)
+        passed_header = True
     fp.close()
+
+    #print(heap.arr)
 
     while heap:
         res = heap.remove()

@@ -1,0 +1,26 @@
+function merge(arr, lo1, hi1, lo2, hi2, key_func):
+    max_elems = (hi1 - lo1) + (hi2 - lo2) + 2
+    temp_arr = init_array(max_elems)
+    i = lo1
+    j = lo2 
+    for k in 0 to (max_elems):
+        if i <= hi1 and j <= hi2:
+            if key_func(arr[i], arr[j]) < 0:
+                temp_arr[k] = arr[i]
+                i += 1
+            else:
+                temp_arr[k] = arr[j]
+                j += 1
+        elif i <= hi1:
+            temp_arr[k] = arr[i]
+            i += 1
+        else:
+            temp_arr[k] = arr[j]
+            j += 1
+    
+    for k in 0 to max_elems:
+        arr[lo1 + k] = temp_arr[k]
+    
+
+
+
