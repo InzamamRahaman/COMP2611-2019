@@ -164,8 +164,8 @@ class BinarySearchTree:
         else:
             node.data.value = value 
 
-    def range_query(self, hi, lo):
-        return range_query(self.root, hi, lo)
+    def range_query(self, lo, hi):
+        return range_query(self.root, lo, hi)
 
     def lte_query(self, key):
         return lte_query(self.root, key)
