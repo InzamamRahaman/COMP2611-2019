@@ -11,6 +11,9 @@ You have been grouped into one of 3 lab sessions. Your sessions can be [found he
 
 [A2](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/assignments/COMP2611__Assignment_2.pdf) - Draft Due Date: 31st October 2019, Final Version Due: 7th November 2019
  
+
+[A3](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/assignments/COMP2611__Assignment_3.pdf) - Draft Due Date: 21st November 2019, Final Version Due: 28th November 2019
+
 ### Course Work Exam Dates
 
 CW Exam #1 - 10th October 2019
@@ -21,9 +24,9 @@ CW Exam #2 - 14th November 2019
 
 A1 - 13th October 2019
 
-A2 - 7th October 2019
+A2 - 7th November 2019
 
-A3 - 21st November 2019
+A3 - 28th November 2019
 
 Email (replace dots and at with appropriate symbols): inzamam dot rahaman at outlook dot com
 
@@ -85,11 +88,11 @@ take long to peruse these
 
 [Week 7 - Binary Search Trees](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-6-BSTs.pdf)
 
-[Week 8 - Searching and Order Statistics](google.com)
+[Week 8 - Searching and Order Statistics](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-8-Sorting.pdf)
 
-[Week 9 - Heaps and Priority Queues](google.com)
+[Week 9 - Heaps and Priority Queues](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-7-Heaps.pdf)
 
-[Week 10 - Intro to Graphs and Basic Algorithms on Graphs](google.com)
+[Week 10 - Intro to Graphs and Basic Algorithms on Graphs](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/Lecture-9-Graphs.pdf)
 
 [Week 11 - CW Exam #2](google.com)
 
