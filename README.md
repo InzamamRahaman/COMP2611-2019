@@ -6,6 +6,8 @@ You have been grouped into one of 3 lab sessions. Your sessions can be [found he
 
 [Coursework Assessment Mark Master Sheet](https://docs.google.com/spreadsheets/d/16ou8HbZrbwHHT_WHDQMePodmwuGEbucdw2wLQZZAkys/edit?usp=sharing)
 
+[Lab 10](https://www.hackerrank.com/comp2611-lab)
+
 ### Assignments
 [A1](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/assignments/A1/COMP2611__Assignment_1.pdf) - Draft Due Date: 3rd October 2019, Final Version Due: 13th October 2019
 
