@@ -98,7 +98,9 @@ take long to peruse these
 
 [Week 11 - CW Exam #2](google.com)
 
-[Week 12 - Minimum Spanning Trees and Single Source Shortest Path](google.com)
+[Week 12 - Minimum Spanning Trees](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/18_msts.pdf)
+
+[Week 12 - Dijkstra's Algorithm]((https://github.com/InzamamRahaman/COMP2611-2019/blob/master/lectures/pdf/17_graphPaths.pdf))
 
 [Week 13 - Epilogue and Review](google.com))
 
