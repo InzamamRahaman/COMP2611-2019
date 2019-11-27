@@ -16,6 +16,8 @@ You have been grouped into one of 3 lab sessions. Your sessions can be [found he
 
 [A3](https://github.com/InzamamRahaman/COMP2611-2019/blob/master/assignments/COMP2611__Assignment_3.pdf) - Draft Due Date: 21st November 2019, Final Version Due: 28th November 2019
 
+[Extra Credit](https://www.hackerrank.com/comp2611-extra-credit)
+
 ### Course Work Exam Dates
 
 CW Exam #1 - 10th October 2019
